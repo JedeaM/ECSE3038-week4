@@ -1,0 +1,7 @@
+[
+  {"name": "front-door", "room": "hall",    "temp": 27.4, "online": true},
+  {"name": "hall-lamp",  "room": "hall",    "temp": 26.1, "online": true},
+  {"name": "attic",      "room": "attic",   "temp": 31.9, "online": true},
+  {"name": "fridge",     "room": "kitchen", "temp": 4.2,  "online": false},
+  {"name": "patio",      "room": "outside", "temp": 29.8, "online": true}
+]
